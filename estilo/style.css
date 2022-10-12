@@ -187,7 +187,7 @@ aside>ul{
     list-style-type: '\2714\00a0\00a0' ;
     
 }
-.qrcode>img{
+aside.qrcode>img{
     width: 40%;
     padding-top: 20px;
 }
