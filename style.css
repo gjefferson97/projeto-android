@@ -188,13 +188,14 @@ aside>ul{
     
 }
 .qrcode>img{
-    width: 40%;
-    padding-top: 20px;
+ width: 600px;
 }
-aside.qrcode{
+div.qrcode{
     width: 50%;
+    height: 100%;
     text-align: center;
-    margin: auto;
+    margin:auto;
+    display: block;
 }
 /*FOOTER*/ 
 
